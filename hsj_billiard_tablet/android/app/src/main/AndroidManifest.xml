@@ -8,7 +8,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="hsj_billiard_tablet"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/pirate_ship">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
